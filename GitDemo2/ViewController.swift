@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     func bugFix() {
-        print("bugFix func")
+        print("bugFix func corrected!")
     }
 }
 
